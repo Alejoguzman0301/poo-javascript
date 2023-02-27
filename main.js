@@ -65,5 +65,10 @@ let nuevasPersonas = personas.map((persona)=>{
     console.log(persona)
 })
 
+console.log('Trabajando desde una nueva rama')
+console.log('Trabajando desde una nueva rama')
+console.log('Trabajando desde una nueva rama')
+console.log('Trabajando desde una nueva rama')
+
 
 
